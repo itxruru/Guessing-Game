@@ -11,13 +11,17 @@ A simple terminal-based game written in Java where you guess a random number.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github/itxruru/Guessing-Game.git
    ```
-2. **Compile the program:**
+2. **Go to the project folder:**
+   ```bash
+   cd Guessing-Game
+   ```
+4. **Compile the program:**
    ```bash
    javac GuessingGame.java
    ```
-3. **Run the game:**
+5. **Run the game:**
    ```bash
    java GuessingGame
    ```
