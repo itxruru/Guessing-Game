@@ -1,7 +1,28 @@
-# Number Guessing Game
-A simple command-line game written in Java.
+# Java Guessing Game 🎮
 
-## How to run
-1. Open your terminal
-2. Compile the code: 'javac GuessingGame.java'
-3. Run the game: 'java GuessingGame'
+A simple terminal-based game written in Java where you guess a random number.
+
+## Features
+* Generates a random number between 1 and 100.
+* Gives instant "Too High" or "Too Low" hints.
+* Counts your total number of guesses.
+
+## How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   ```
+2. **Compile the program:**
+   ```bash
+   javac GuessingGame.java
+   ```
+3. **Run the game:**
+   ```bash
+   java GuessingGame
+   ```
+
+## How to Play
+* The computer picks a secret number.
+* Type your guess in the terminal and press Enter.
+* Follow the hints until you find the correct answer!
